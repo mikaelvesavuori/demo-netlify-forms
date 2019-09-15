@@ -1,10 +1,14 @@
 # Demo: Netlify Forms
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mikaelvesavuori/demo-netlify-forms)
+
 This is a super-simple demo of Netlify Forms, essentially using the same snippet they are officially providing at [https://www.netlify.com/docs/form-handling/](https://www.netlify.com/docs/form-handling/). I've also added a custom success page, by way of the `action` attribute on the form element.
 
 ## Instructions
 
-Simply upload this to Netlify. Easiest way for this kind of demo, is by compressing this repo into a ZIP and dragging it to the manual deployment dropzone in the "Deploys" tab. Forms should be automatically detected during deployment.
+Ideally, the **Deploy to Netlify** button above should do the trick for you.
+
+Else, simply upload this to Netlify. Easiest way for this kind of demo, is by compressing this repo into a ZIP and dragging it to the manual deployment dropzone in the "Deploys" tab. Forms should be automatically detected during deployment.
 
 ## How it looks inside of Netlify
 
