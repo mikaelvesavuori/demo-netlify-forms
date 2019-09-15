@@ -1,0 +1,2 @@
+name;email;role;message;ip;user_agent;referrer;created_at
+some name;email@email.com;"[""leader""]";yep, total leader;MASKED;"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15";https://demo-netlify-forms.netlify.com/;2019-09-15T07:19:56.410Z
